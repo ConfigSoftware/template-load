@@ -37,3 +37,6 @@
 
     (数字)g:template_replace_end_line 
             结束标记替换到这里。默认是最后一行（“$”）
+
+    (数字)g:template_reminder
+            默认不提醒模板缺失。默认的参数1是提醒。
